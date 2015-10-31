@@ -1,6 +1,6 @@
 # OSU_DocAnalysis_Fall2015_Assign3
 
-Brief Overview:
+Assignment:
 ===
 Please see [Assignment 3](https://github.com/wuga214/OSU_DocAnalysis_Fall2015_Assign3/blob/master/NLP_Assignment_Description.pdf) for full instructions on the lab and assignment and what specifically should be completed and submitted.
 
